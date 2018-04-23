@@ -1,2 +1,1 @@
-# Invoke-CertReplacement
-Replace Certificates on ESXi hosts
+IMPORTANT: Ensure the script is not run from a UNC path; it will error on the WINSCP components.  If you have to run from a network location, hardcode the scp assembly paths.
